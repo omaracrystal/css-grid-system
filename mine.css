@@ -71,6 +71,22 @@
   border-width : 2px;
 }
 
+.row-4 {
+  position     : absolute;
+  display      : inline-block;
+  float        : left;
+  z-index      : +2;
+
+  height       : 50px;
+  width        : 55%;
+  margin       : 20px;
+  margin-left  : 30%;
+  margin-right : 20px;
+
+  border-style : dotted;
+  border-width : 2px;
+}
+
 .col-6 {
   display       : inline-block;
   float         : left;
