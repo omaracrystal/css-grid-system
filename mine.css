@@ -77,11 +77,25 @@
   float        : left;
   z-index      : +2;
 
-  height       : 50px;
-  width        : 55%;
-  margin       : 20px;
-  margin-left  : 30%;
-  margin-right : 20px;
+  height       : 70px;
+  width        : 60%;
+  margin       : 35px;
+  margin-left  : 32.5%;
+
+  border-style : dotted;
+  border-width : 2px;
+}
+
+.col-1 {
+  position     : absolute;
+  display      : inline-block;
+  float        : left;
+  z-index      : +2;
+
+  height       : 30px;
+  width        : 4%;
+  margin       : 55px;
+  margin-left  : 35%;
 
   border-style : dotted;
   border-width : 2px;
@@ -102,23 +116,6 @@
   text-align    : center;
   border-style  : solid;
   border-width  : 2px;
-}
-
-.col-1 {
-  position     : relative;
-  display      : inline-block;
-  float        : right;
-  z-index      : 2;
-
-  height       : 78px;
-  width        : 60%;
-  margin-top   : -305px;
-  margin-right : 56px;
-  padding      : 10px;
-
-  text-align   : center;
-  border-style : dotted;
-  border-width : 2px;
 }
 
 .container-1 {
